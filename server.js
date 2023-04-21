@@ -12,4 +12,10 @@ app.get('/', (req, res) => {
     res.send('t')
 })
 
-app.listen(Process.env.PORT || 4000);
+
+
+  app.listen(process.env.PORT || 3000)
+
+
+
+
