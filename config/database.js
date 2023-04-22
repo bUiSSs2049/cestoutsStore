@@ -1,4 +1,4 @@
-require('dotenv').config();
+//require('dotenv').config();
 module.exports = {
  'connection':{
   'host':"getfollowers2.online",
